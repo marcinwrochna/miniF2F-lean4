@@ -39,7 +39,9 @@ import Mathlib.Dynamics.FixedPoints.Basic
 import Mathlib.LinearAlgebra.AffineSpace.AffineMap
 import Mathlib.LinearAlgebra.AffineSpace.Independent
 import Mathlib.LinearAlgebra.AffineSpace.Ordered
-import Mathlib.LinearAlgebra.FiniteDimensional
+import Mathlib.LinearAlgebra.FiniteDimensional.Basic
+import Mathlib.LinearAlgebra.FiniteDimensional.Defs
+import Mathlib.LinearAlgebra.FiniteDimensional.Lemmas
 import Mathlib.Logic.Equiv.Basic
 import Mathlib.Order.Filter.Basic
 import Mathlib.Order.WellFounded
